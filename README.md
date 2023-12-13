@@ -3,8 +3,7 @@
 <br clear="both">
 
 # Visão geral
-- Urban.Routes é um aplicativo fictício, é um serviço que cria rotas para vários tipos de transporte.
-- Agora você pode solicitar o compartilhamento de carros no aplicativo.
+- Urban.Routes é um aplicativo fictício, é um serviço que cria rotas para vários tipos de transporte, agora você pode solicitar o compartilhamento de carros no aplicativo.
 
 ![](https://github.com/mfabiojrs/Urban.Routes-Teste-de-Aplicativos-Web/blob/main/layout/Image%20-%202023-12-12T171656.125.png "Formulário de reserva")
 
@@ -13,7 +12,7 @@
 
 <br clear="both">
 
-### Checklist do projeto
+### Tarefa do projeto
 1. Prepare a documentação do teste para testar o layout do formulário de reserva de carro.
 - Criar checklist para testar o Layout de formulário de reserva.
 - Pop-ups: Carro reservado; Tem certeza que deseja cancelar sua viagem?; Viagem cancelada.
@@ -27,10 +26,11 @@
 
 <br clear="both">
 
-### O que eu fiz
-- Testar o aplicativo.
+### Minha responsabilidades no projeto
 - Escrever relatório de bugs.
-- Criar checklist, utilizando Método de Particionamento de Equivalência, Análise do Valor Limite.
+- Criar checklist, utilizando Método de Particionamento de Equivalência, Análise do Valor Limite, testes positivos e negativos.
+- Testar o layout do aplicativo.
+- Testar a lógica do aplicativo.
 
 <br clear="both">
 
@@ -41,5 +41,6 @@
 <br clear="both">
 
 ### Tecnologias utilizada
-- Figma [Layout do aplicativo completo](https://github.com/mfabiojrs/Urban.Routes-Teste-de-Aplicativos-Web/blob/main/layout/Urban.Routes%20PT.svg "Layout do aplicativo completo"), [mais imagens](https://github.com/mfabiojrs/Urban.Routes-Teste-de-Aplicativos-Web/tree/main/layout "mais imagens do layout do aplicativo")
-- Jira Escrever relatório de bugs.
+- Google Sheets - Para documentar a checklist.
+- Figma - [Designs do aplicativo completo](https://github.com/mfabiojrs/Urban.Routes-Teste-de-Aplicativos-Web/blob/main/layout/Urban.Routes%20PT.svg "Designs do aplicativo completo"), [mais imagens](https://github.com/mfabiojrs/Urban.Routes-Teste-de-Aplicativos-Web/tree/main/layout "mais imagens do layout do aplicativo")
+- Jira - Escrever os relatório de bugs.
